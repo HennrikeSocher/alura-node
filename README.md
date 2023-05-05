@@ -2,6 +2,9 @@
 
 uso de 
 > npm install nodemon
+
+
+
 > npm isntall express
 e adicionar nas configuracoes do package.json
 > "type": "module",
